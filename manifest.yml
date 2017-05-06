@@ -1,5 +1,4 @@
 applications: infacodereview
-- name: node-hello-Gaurav
   memory: 128M
   command: sh ./Bluemix_Script.sh
   buildpack: sdk-for-nodejs
